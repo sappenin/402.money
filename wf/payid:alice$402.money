@@ -3,7 +3,7 @@
   "links": [
     {
       "rel": "https:\/\/payid.org\/ns\/payid-discovery-url\/1.0",
-      "href": "https:\/\/payid.402.money\/.well-known\/webfinger?resource=payid%3Aalice%24payid.402.money",
+      "href": "https:\/\/payid.402.money\/.well-known\/webfinger?resource=payid:alice$payid.402.money",
       "type": "application\/jrd+json"
     }
   ]
