@@ -1,5 +1,0 @@
-theme: jekyll-theme-cayman
-include:
-  - .well-known
-plugins:
-  - jekyll-redirect-from
